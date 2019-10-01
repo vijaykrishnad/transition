@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7750" started-at="2019-10-01T07:07:10Z" finished-at="2019-10-01T07:07:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7750" started-at="2019-10-01T07:07:10Z" finished-at="2019-10-01T07:07:18Z">
+      <class name="Mygrp.gen.sel">
+        <test-method status="PASS" signature="venu()[pri:0, instance:Mygrp.gen.sel@cb5822]" name="venu" duration-ms="7671" started-at="2019-10-01T07:07:11Z" finished-at="2019-10-01T07:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- venu -->
+      </class> <!-- Mygrp.gen.sel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
